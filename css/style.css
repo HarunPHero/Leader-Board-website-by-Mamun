@@ -157,4 +157,14 @@ footer{
     background-image: linear-gradient(#684efb .01%,#5a00dd 100.01%);
     margin-top: 20%;
 }
+.More{
+    width: 100px;
+    
+    background-image: linear-gradient(#684efb .01%,#5a00dd 100.01%);
+    padding: 1%;
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-weight: 500;
+}
 
